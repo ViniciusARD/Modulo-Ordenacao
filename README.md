@@ -75,8 +75,3 @@ Os resultados serão retornados diretamente na resposta HTTP.
 - **Adapter/CubeSortAdapter.cs**: Adaptação do algoritmo CubeSort para a interface de algoritmos de ordenação.
 - **ModuloOrdenacao/Sort**: Contém as implementações dos algoritmos de ordenação.
 - **ModuloOrdenacao/Prototype**: Contém a implementação de protótipos para clonagem de arrays.
-
-## Dependências
-
-Este projeto não tem dependências externas além do .NET Core.
-
