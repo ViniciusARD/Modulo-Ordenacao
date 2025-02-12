@@ -78,14 +78,3 @@ Os resultados serão retornados diretamente na resposta HTTP.
 
 Este projeto não tem dependências externas além do .NET Core.
 
-## Contribuições
-
-Se você deseja contribuir para este projeto, fique à vontade para abrir uma **issue** ou enviar um **pull request** com melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Este README abrange o funcionamento do código, os padrões de projeto aplicados e fornece instruções claras de uso. Sinta-se à vontade para personalizar mais conforme necessário!
