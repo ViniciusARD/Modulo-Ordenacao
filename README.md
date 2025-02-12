@@ -2,6 +2,8 @@
 
 Este projeto demonstra o uso de diferentes algoritmos de ordenação em C#, com implementação de um servidor web para ordenar arrays via requisições HTTP. O código implementa uma variedade de algoritmos de ordenação e expõe esses algoritmos em um servidor web simples, permitindo que os usuários solicitem a ordenação de arrays diretamente via URL.
 
+Além disso, o projeto inclui a geração de um array com números aleatórios (de 1 a 99) que são ordenados utilizando diferentes estratégias de ordenação, medindo o tempo de execução de cada uma delas. Em seguida, o código tenta se conectar a um banco de dados e realizar a ordenação de listas de alunos e livros em ordem alfabética, também medindo o tempo de execução para cada estratégia de ordenação.
+
 ## Funcionalidades
 
 - Implementação de diversos algoritmos de ordenação: Cube Sort, Merge Sort, Radix Sort, Quick Sort, e Shell Sort.
