@@ -32,7 +32,7 @@ Este projeto demonstra o uso de diferentes algoritmos de ordenação em C#, com 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/nome-do-repositorio.git
+   git clone https://github.com/ViniciusARD/Modulo-Ordenacao.git
    ```
 
 2. Abra o projeto em uma IDE como o Visual Studio.
